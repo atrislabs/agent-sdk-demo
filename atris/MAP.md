@@ -12,6 +12,9 @@
 - `requirements.txt` - Python dependencies
 - Agent config loaded via JSON files or env vars
 
+### Infrastructure & Validation
+- `ECS_VALIDATED.md` - ECS Warm Pool validation report (Feb 1, 2026)
+
 ## Entry Points
 - `src/agent.py` - Main agent class and demo runner
   - Run with: `python src/agent.py`
@@ -25,6 +28,10 @@
   - Configuration management
   - Logging setup
   - Demo functionality
+- `ECS_VALIDATED.md` ⭐ - Infrastructure validation documentation
+  - ECS Warm Pool performance validation
+  - Production readiness confirmation
+  - Deployment configuration details
 
 ## Quick Navigation
 ```bash
@@ -36,4 +43,7 @@ pip install -r requirements.txt
 
 # Check agent syntax
 python -m py_compile src/agent.py
+
+# Review infrastructure validation
+cat ECS_VALIDATED.md
 ```
