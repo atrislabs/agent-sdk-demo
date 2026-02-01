@@ -1,0 +1,29 @@
+# Core dependencies for agent functionality
+requests>=2.28.0
+python-dotenv>=0.19.0
+pydantic>=1.10.0
+typing-extensions>=4.4.0
+
+# Logging and utilities
+colorlog>=6.7.0
+python-dateutil>=2.8.0
+
+# JSON and data processing
+jsonschema>=4.17.0
+pyyaml>=6.0
+
+# Optional: AI/ML integrations (uncomment as needed)
+# openai>=0.27.0
+# anthropic>=0.3.0
+# langchain>=0.0.200
+
+# Development dependencies
+pytest>=7.1.0
+pytest-cov>=4.0.0
+black>=22.10.0
+flake8>=5.0.0
+mypy>=0.991
+
+# Documentation
+sphinx>=5.3.0
+sphinx-rtd-theme>=1.2.0
