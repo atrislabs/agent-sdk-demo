@@ -103,3 +103,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 
 For questions and support, please visit the [ATRIS documentation](https://docs.atris.ai) or open an issue in this repository.
+
+## Atris ecosystem
+
+Demo for [atris](https://github.com/atrislabs/atris) · [member](https://github.com/atrislabs/member) · [clawhub-skills](https://github.com/atrislabs/clawhub-skills)
