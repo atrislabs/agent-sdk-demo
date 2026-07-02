@@ -1,5 +1,7 @@
 # Agent SDK Demo
 
+[![GitHub stars](https://img.shields.io/github/stars/atrislabs/agent-sdk-demo?style=social)](https://github.com/atrislabs/agent-sdk-demo/stargazers)
+
 A demonstration project showcasing the capabilities of the ATRIS Agent SDK. This project provides a foundation for building intelligent agents that can interact with various tools and APIs.
 
 ## Overview
